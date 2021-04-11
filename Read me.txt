@@ -1,0 +1,2 @@
+This was a group project.
+Developed an integrated system consisting of an Amplifier circuit, One scale-shift register, One Comparator circuit, One D-Flip Flop, One BJT, One relay & One LM35 sensor that automatically detects the room temperature. The system gives feedback by switching off a bulb if the room temperature exceeds a certain temperature for the course Control Systems at BRAC University.
