@@ -167,6 +167,8 @@ python scripts/generate_figures.py
 
 Group D, EEE 305 (Fall 2018), BRAC University:
 
+![Block diagram](images/control_team_members.jpg)
+
 Nazifa Tabassum Zaima · Nusrat Islam · Tanjil Ahmed · Palash Chandra Ghosh · Md. Sajid Akbar · Rayed Md Muhaymin Hasan · Md Rezuwan Hassan · Mehrab Azam Khan
 
 Instructor: Dr. A. K. M. Abdul Malek Azad
