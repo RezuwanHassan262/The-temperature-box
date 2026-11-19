@@ -171,7 +171,10 @@ Group D, EEE 305 (Fall 2018), BRAC University:
 
 Nazifa Tabassum Zaima · Nusrat Islam · Tanjil Ahmed · Palash Chandra Ghosh · Md. Sajid Akbar · Rayed Md Muhaymin Hasan · Md Rezuwan Hassan · Mehrab Azam Khan
 
-Instructor: Dr. A. K. M. Abdul Malek Azad
+Instructor: [Dr. A. K. M. Abdul Malek Azad]([images/schematics/block-diagram.jpg](https://engineering.bracu.ac.bd/profile/akm-abdul-malek-azad-phd))
+
+
+
 
 ## References
 
