@@ -5,7 +5,7 @@
 The design follows the *Temperature Box* experiment described by O'Brien & Watkins (IEEE CDC, 1999): an LM35 sensor measures the temperature, an op-amp stage scales it to a convenient voltage range, a pair of comparators checks it against a **high** and a **low** threshold, and a D-flip-flop based logic block drives a BJT + relay that switches the heat source (a bulb in our build) on or off.
 
 <p align="center">
-  <a href="video/group-d-demo.mp4"><img src="images/demo/demo-preview.gif" width="60%" alt="Prototype demo preview — click to open the full video"></a>
+  <a href="video/group-d-demo.mp4"><img src="images/temp_box_schematics.jpg" width="60%" alt="Prototype demo preview — click to open the full video"></a>
   <br>
   <em>The prototype being tested on the lab bench — <a href="video/group-d-demo.mp4">▶ watch the full demo video</a> (preview clip above, click to open).</em>
 </p>
